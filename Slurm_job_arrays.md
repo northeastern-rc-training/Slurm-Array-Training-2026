@@ -4,9 +4,9 @@
 
 ## Presentor
 
-Your Name Here
+Serena Caplins
 
-Title
+Associate Bioinformatician
 
 [Research Computing](https://rc.northeastern.edu/research-computing-team/)
 

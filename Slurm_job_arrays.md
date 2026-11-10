@@ -1,6 +1,6 @@
 # Research Computing Training
 
-[![drawing](images/ac-grid-5-red.svg)](images/ac-grid-5-red.svg)
+[![drawing](ac-grid-5-red.svg)](images/ac-grid-5-red.svg)
 
 ## Presentor
 
